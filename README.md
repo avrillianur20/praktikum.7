@@ -100,4 +100,6 @@ def hapus():
 
 ![Screenshot (650)](https://user-images.githubusercontent.com/115686359/205285859-92c3efb8-fb72-483c-9e0e-4fdb1bd18ada.png)
 
+## Flowcahrt
+
 
