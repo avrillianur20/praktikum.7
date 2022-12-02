@@ -32,7 +32,7 @@ print(d("buku"))
 
 
 ## Praktikum
-![WhatsApp Image 2022-12-02 at 09 09 47](https://user-images.githubusercontent.com/115686359/205218729-b1beb8cb-f802-4eb1-87e4-8788fc1fb6d1.jpeg)
+![WhatsApp Image 2022-12-02 at 09 09 47](https://user-images.githubusercontent.com/115686359/205219066-f4794d78-595f-4f8c-b132-2decc63eb3a7.jpeg)
 
 ```
 
